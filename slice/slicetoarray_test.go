@@ -21,7 +21,5 @@ func TestSTA2(t *testing.T){
 	// *[3]int,数组指针
 	fmt.Printf("%T\n",p)
 
-
-
 }
 
