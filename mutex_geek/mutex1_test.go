@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 )
-
+// 加锁版map
 type safeResource struct{
 	resource map[string]string
 	lock sync.Mutex
