@@ -37,4 +37,3 @@ func (p *Mypool) Put(val any) any{
 	return nil
 }
 
-
