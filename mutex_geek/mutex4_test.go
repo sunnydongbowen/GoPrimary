@@ -47,5 +47,4 @@ func TestDoubleCheck(t *testing.T) {
 	time.Sleep(3*time.Second)
 	wg.Wait()
 	fmt.Println(sm)
-
 }
