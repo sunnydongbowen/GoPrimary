@@ -38,6 +38,5 @@ func TestPool(t *testing.T){
 		//pool.Put(val)
 		// 想一想，拿出来不放进去会怎么样
 		pool.Put(i)
-		
 	}
 }
