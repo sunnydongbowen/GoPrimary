@@ -31,3 +31,4 @@ func FindPrime(start,end int) {
 func TestPrime(t *testing.T)  {
 	FindPrime(1,100)
 }
+

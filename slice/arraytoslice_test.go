@@ -11,5 +11,5 @@ func TestATS(t *testing.T) {
 	sl:=array[:]
 	sl[2] +=1
 	fmt.Printf("%v\n",sl)
-
 }
+
