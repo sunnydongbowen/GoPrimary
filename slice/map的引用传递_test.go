@@ -18,4 +18,3 @@ func TestMap(t *testing.T) {
 	changeMap(m)
 	fmt.Println(m)
 }
-
