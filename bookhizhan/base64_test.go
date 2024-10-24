@@ -1,4 +1,4 @@
-package shizhan
+package bookhizhan
 
 import (
 	"encoding/base64"
