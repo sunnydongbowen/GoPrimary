@@ -2,12 +2,12 @@
  * @Author: sunnydongbowen
  * @Date: 2024-11-03 19:36:19
  * @LastEditors: sunnydongbowen
- * @LastEditTime: 2024-11-03 20:26:24
+ * @LastEditTime: 2024-11-14 14:57:20
  * @FilePath: /GoPrimary/qimi/day05/scan.go
  * @Description: 
  * 
  */
-package main	
+package main
 
 import ( 
 	"fmt")
